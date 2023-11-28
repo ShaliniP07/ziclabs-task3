@@ -16,10 +16,15 @@ To build a Student Management System
 4. Methods to read and write student data are implemented in the StudentManagementSystem class. These methods interact with the storage medium to save and retrieve student data.
 
 5. The program follows the following logic:
-Read the existing student data from the storage medium.
-Display the options to the user.
-Read the user's choice and perform the corresponding operation.
-Repeat steps 3 and 4 until the user chooses to exit the application.
-Write the updated student data back to the storage medium.
+   
+* Read the existing student data from the storage medium.
 
-6. Input validation is implemented in the methods where the user inputs data. The code checks that the required fields are not left empty and that the data is in the correct format.
+* Display the options to the user.
+
+* Read the user's choice and perform the corresponding operation.
+
+* Repeat steps 3 and 4 until the user chooses to exit the application.
+
+* Write the updated student data back to the storage medium.
+
+7. Input validation is implemented in the methods where the user inputs data. The code checks that the required fields are not left empty and that the data is in the correct format.
